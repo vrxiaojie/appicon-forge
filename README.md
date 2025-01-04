@@ -1,6 +1,6 @@
 # AppIcon Forge
 
-An intuitive app icon generator that lets you customize colors, borders, gradient, shadows, text, local images and more to create unique app icons effortlessly.
+An intuitive app icon generator that lets you customize colors, borders, gradient, shadows, text, local images and more to create unique app icons effortlessly.  
 
 ## Example
 
